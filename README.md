@@ -1,4 +1,4 @@
-
+![logo](https://github.com/gauravgb2000/gauravgb2000/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Gaurav Badge</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
